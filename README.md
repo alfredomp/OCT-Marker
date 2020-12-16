@@ -85,7 +85,7 @@ and the develop packages of
 
 Get the projects
 
-  * oct_cpp_framework
+  * [oct_cpp_framework](https://github.com/neurodial/oct_cpp_framework)
   * LibE2E (for reverse engineered E2E support)
   * LibOctData
   * Oct-Marker
